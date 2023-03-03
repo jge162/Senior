@@ -1,0 +1,4 @@
+0 Base
+1 Waste
+2 Recyling
+3 Compost
